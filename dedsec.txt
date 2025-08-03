@@ -3,3 +3,5 @@ dedsec recruiting system game:
 https://dedsec.edenonline.xyz/brave (connects to your ethereum wallet, lets you play it however for free)
 
 Build together with UBISOFT and can be recommended
+
+NOTE: needs at least Intermediate Linux/Unix command line Skills! Otherwise you won't get far with it!
