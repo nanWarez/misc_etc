@@ -1,4 +1,4 @@
-dedsec recruiting system game:
+dedsec recruiting system game_link:
 
 https://dedsec.edenonline.xyz/brave (connects to your ethereum wallet, lets you play it however for free)
 
